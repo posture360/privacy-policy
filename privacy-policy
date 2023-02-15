@@ -1,0 +1,11 @@
+PostureAI: Privacy policy
+
+The app collects, during account creation, the user's name and email address. They are stored on our server and are used to let them log in and to have a personalised user experience. None of this information is shared outside of our company. 
+
+Permissions required by the app:
+
+android.permission.ACCESS_BACKGROUND_LOCATION
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_FINE_LOCATION 
+
+These permissions are required in order to locate and connect to the PostureSense sensor via bluetooth.
